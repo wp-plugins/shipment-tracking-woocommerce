@@ -6,7 +6,7 @@ Description: Easy managing order tracking information for WooCommerce orders. Se
 Author: woocommerceplugin
 Text Domain: ywot
 Version: 1.0.2
-Author URI: http://yithemes.com/
+Author URI: http://yithemes.com
 
 @author Yithemes
 @package WooCommerce Shipment Tracking
