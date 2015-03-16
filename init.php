@@ -3,7 +3,7 @@
 Plugin Name: WooCommerce Shipment Tracking
 Plugin URI: http://yithemes.com/themes/plugins/yith-woocommerce-order-tracking/
 Description: Easy managing order tracking information for WooCommerce orders. Set the carrier and the tracking code and your customers will get notified about their shipping.
-Author: Yithemes
+Author: woocommerceplugin
 Text Domain: ywot
 Version: 1.0.2
 Author URI: http://yithemes.com/
