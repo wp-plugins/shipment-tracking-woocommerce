@@ -1,6 +1,6 @@
 === WooCommerce Shipment Tracking ===
 
-Contributors: yithemes
+Contributors: woocommerceplugin
 Tags: woocommerce, order tracking, order track, order trace, delivery, carriers, shipping, ship orders, e-commerce, send product, product shipping, delivery notes, track carriers, track email, delivery note, order shipping, order, orders, shipment tracking, shipment, e-commerce, ecommerce
 Requires at least: 4.0
 Tested up to: 4.1.0
